@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://tiantt.github.io/blog/2013/09/23/hello-octopress/</loc>
+        <lastmod>2013-12-06T02:10:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tiantt.github.io/blog/2013/12/06/make-the-change/</loc>
+        <lastmod>2013-12-06T02:10:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tiantt.github.io/blog/archives/</loc>
+        <lastmod>2013-12-06T02:10:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tiantt.github.io/</loc>
+        <lastmod>2013-12-06T02:10:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tiantt.github.io/robots.txt</loc>
+        <lastmod>2013-12-06T02:10:20+08:00</lastmod>
+    </url>
+</urlset>

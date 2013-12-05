@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: work | TTT's Tech Chatter]]></title>
+  <link href="http://tiantt.github.io/blog/categories/work/atom.xml" rel="self"/>
+  <link href="http://tiantt.github.io/"/>
+  <updated>2013-12-06T02:14:03+08:00</updated>
+  <id>http://tiantt.github.io/</id>
+  <author>
+    <name><![CDATA[TTT]]></name>
+    <email><![CDATA[tiantt@outlook.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Make the Change]]></title>
+    <link href="http://tiantt.github.io/blog/2013/12/06/make-the-change/"/>
+    <updated>2013-12-06T01:13:00+08:00</updated>
+    <id>http://tiantt.github.io/blog/2013/12/06/make-the-change</id>
+    <content type="html"><![CDATA[<ul>
+<li>Farewell to blue after 8 years work experience. Looking for a new day.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
